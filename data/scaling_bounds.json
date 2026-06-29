@@ -1,0 +1,18 @@
+{
+  "tfidf_sbert_combined": {
+    "min": 0.0191559402205322,
+    "max": 0.6293597669298341
+  },
+  "common_skill_count": {
+    "min": 0.0,
+    "max": 15.0
+  },
+  "exact_phrase_overlap_count": {
+    "min": 0.0,
+    "max": 48.0
+  },
+  "bm25_similarity": {
+    "min": 0.0,
+    "max": 1.0
+  }
+}
